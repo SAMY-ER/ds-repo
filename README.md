@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/mhew/data-science-template/_apis/build/status/equinor.data-science-template?branchName=master)](https://dev.azure.com/mhew/data-science-template/_build/latest?definitionId=5&branchName=master)
+
+
 data_science
 ==============================
 
